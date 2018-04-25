@@ -1,3 +1,3 @@
 # frontend-test
 
-** DEPRECATED ** test task.
+**DEPRECATED** test task.
